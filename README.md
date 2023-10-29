@@ -7,13 +7,13 @@ This Python script captures video frames from your webcam, analyzes faces, and d
 - Python 3.x
 - HumeStreamClient Library: Install the HumeStreamClient library for Python using pip.
 
-``bash
   pip install hume-sdk
 
 Required Python Libraries: Install the necessary Python libraries such as OpenCV, asyncio, websockets, base64, time, and pprint.<br>
   pip install opencv-python-headless<br>
   pip install websockets<br>
-##Usage
+  
+## Usage
 
 Replace the HumeStreamClient API key in the HumeStreamClient constructor with your own API key.
 
